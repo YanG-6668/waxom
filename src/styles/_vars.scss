@@ -1,0 +1,27 @@
+$text:#8c8c8c;
+$title:#555;
+
+@mixin f200 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+}
+
+@mixin f400 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+}
+
+@mixin f500 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+}
+
+@mixin f600 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+}
+
+@mixin f800 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 800;
+}
